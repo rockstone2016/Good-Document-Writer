@@ -16,3 +16,7 @@ Key Features:
 - Perfect page layout
 - Support a live word count
 - Export to PDF files
+- Split-window editing
+
+Constant improvement is our promise to you. Reach out to us at
+gooddocumentwriter@outlook.com for questions and comments.
